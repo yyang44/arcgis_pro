@@ -1,6 +1,6 @@
 # Saptial Analysis
 
-Here present my spatial analysis work done using Arc Gis Pro.
+Here present my spatial analysis work done using ArcGIS Pro.
 
 [How does land fire affect agriculture in California? 
 How are they related to each other spatially?
